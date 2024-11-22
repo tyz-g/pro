@@ -1,0 +1,24 @@
+body{
+
+    background: url('https://wallpapercave.com/wp/wp2229295.jpg'); 
+}
+h1{color: black;}
+h1 {
+    text-decoration: underline;
+  }
+  h1{font-family: Georgia, 'Times New Roman', Times, serif;
+font-size-adjust: calc(1.5);}
+
+  p6{font-family: fantasy;}
+  
+  
+  .left-half {
+    width: 50%;
+    float: left;
+  }
+p99{color: rgb(124, 7, 7);}
+h3{font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif:'Courier New', Courier, monospace;}
+h3{font-weight: 1000;}
+h1{font-weight: 700;}
+h4{font-size: larger;}
+p6{font-size: larger;}
